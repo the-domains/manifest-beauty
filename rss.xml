@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Manifest Beauty]]></title>
-        <description><![CDATA[Manifest Beauty]]></description>
+        <title><![CDATA[Dream. Plan. Become.]]></title>
+        <description><![CDATA[Dream. Plan. Become.]]></description>
         <link>https://thegrid.ai/manifest-beauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 May 2016 21:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 22:14:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/manifest-beauty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Launch]]></title>
+            <description><![CDATA[<article><h1>The Launch</h1><p>Today I took the first steps in the beginning of an exciting new adventure in life.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec27042-74a6-4452-95d7-9a05bb00b246.jpg"></article>]]></description>
+            <link>https://thegrid.ai/manifest-beauty/the-launch/index.html</link>
+            <guid isPermaLink="false">06524cd8-2aa7-433a-a16f-bd0033dce628</guid>
+            <pubDate>Sun, 29 May 2016 22:14:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Grand Café de Tropen, Amsterdam, Netherlands]]></title>
             <description><![CDATA[<article><h1>Grand Café de Tropen, Amsterdam, Netherlands</h1><p>To be frank, Amsterdam's Koninklijk Instituut voor de Tropen, more informally known as the Royal Tropical Institute, is not the first place you'd think of for a lunch of pulled chicken marinated in hoi-sin and star anise. The stately Dutch Gothic Revival pile was designed by J.J.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/167fcc4d66d410506a1edb29bd3162345bc27b71.jpg"></article>]]></description>
