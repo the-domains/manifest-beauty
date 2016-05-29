@@ -1,4 +1,3 @@
-layout_spectrum: 0.5617508434224874
 typography_spectrum: 0.20628856914117932
 color:
   brandStrength: 0.4472967467736453
@@ -11,4 +10,8 @@ color:
     - '#7E827A'
     - '#E3CDA4'
     - '#C77966'
+layout_spectrum: 0.5617508434224874
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fae9ea67-049b-4a02-9119-ce8abf01203e.jpg'
 name: Manifest Beauty
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef84d4d-384b-4390-a83f-d89a528ad33e.ico'
+title: Dream. Plan. Become.
